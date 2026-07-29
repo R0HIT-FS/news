@@ -1,6 +1,6 @@
 import "./bootstrap";
 import bcrypt from "bcryptjs";
-import { connectDB } from "../lib/mongodb";
+import { connectDB } from "../lib/db/mongodb";
 import User from "../models/User";
 
 async function seedAdmin() {
