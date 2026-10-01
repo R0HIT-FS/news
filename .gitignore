@@ -40,5 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# temp-fix
-dns-fix.cjs
+# # temp-fix
+# dns-fix.cjs
